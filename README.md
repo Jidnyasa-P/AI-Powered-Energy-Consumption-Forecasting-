@@ -5,7 +5,7 @@
 [![ML](https://img.shields.io/badge/Machine_Learning-Neural_Networks-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-Apache_2.0-D22128?style=for-the-badge)](LICENSE)
 
-> **Industry-aligned Proof of Work** for Energy Analytics, Smart Cities, and Clean Tech roles.
+Prototype Link : [Demo Link](https://ai.studio/apps/6c20977c-0d4c-488f-ab9a-5b4a91cae87d)
 
 ---
 
